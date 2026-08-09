@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image2 Blue Tech Infographic"
+  short_description: "生成蓝白科技知识图解与架构图提示词"
+  default_prompt: "Use $image2-blue-tech-infographic to create a blue-white technical infographic prompt."
+  brand_color: "#1266D6"
+policy:
+  allow_implicit_invocation: true
