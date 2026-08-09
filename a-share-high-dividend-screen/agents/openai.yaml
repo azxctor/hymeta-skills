@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股高股息筛选"
+  short_description: "筛选A股高股息候选并生成排序CSV"
+  default_prompt: "Use $a-share-high-dividend-screen to refresh A股高股息行业Top3候选、主题追加、10年PE历史分位和综合分排序CSV."
